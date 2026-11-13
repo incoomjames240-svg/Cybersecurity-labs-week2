@@ -201,3 +201,19 @@ I also plan to examine the differences between internal DNS discovery and public
 **Project Status:** Week 2 practical exercises documented.
 
 **GitHub Repository:** Cybersecurity-labs-week2
+## 10. Week 2 Assessment Results
+
+**Training:** NetworkWalks Cybersecurity Internship
+**Batch:** B084
+**Assessment status:** Marked
+**Final score:** 100/100 (100%)
+
+| Assessment criterion | Score |
+| --- | ---: |
+| Timely submission | 10/10 |
+| GitHub repository | 40/40 |
+| LinkedIn project post | 40/40 |
+| YouTube experience sharing | 10/10 |
+| **Total** | **100/100** |
+
+The NetworkWalks results portal confirmed full marks for my Week 2 practical assignment. This result reflects my weekly internship project assessment, not a separate professional certification.
